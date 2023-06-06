@@ -1,2 +1,3 @@
 # hello-world
-This repository contains the hello world tutorial
+My name is **Allie Shupe**.
+I am currently 25 years old. I live in Omaha with my husband and three dogs.
